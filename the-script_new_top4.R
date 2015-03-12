@@ -1,6 +1,6 @@
 #---------------------------------------------------------------------------------------------
 # Name: SpeciesTop4Habitats.R
-# Purpose: This scripts takes the output of the Tabulate Area command from ArcGIS and calculates the top four percentatages of each habitat type
+# Purpose: This script takes the output of the Tabulate Area command from ArcGIS and calculates the top four percentages of each habitat type
 # Author: Christopher Tracey
 # Created: 2015-01-14
 # Updated: 2015-01-16
